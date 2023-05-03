@@ -16,44 +16,23 @@
 <a href="https://www.behance.net/mathishaumont" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
-  
 
-
+![Profile views counter](https://komarev.com/ghpvc/?username=MathisHaumont&&style=flat-square)  
 
 ### Glad to see you here!  
 Passionate about computer science since I was young, I decided to make it my professional activity. After obtaining my baccalaureate, I went into computer development at the G4 Institute in Lyon, where I am in my third year with the XR specialization.
 
 In addition to school, I'm working at Evaveo for real time 3D development and Unity development. My role is to develop game mechanics using scenarios and 3D objects for serious games.
 
-Recently, I opened my micro-business in IT development where I can help companies to have websites, mobile applications or software. If you want more information, I invite you to come in my private messages to discuss.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+Recently, I opened my micro-business in IT development where I can help companies to have websites, mobile applications or software. If you want more information, I invite you to come in my private messages to discuss.
 
 - 🔭 I’m currently working on [Honkit Summary](https://github.com/MathisHaumont/honkit-summary)  
   
-
 - 🌱 I’m currently learning BarbaJS, GSAP and Lottie  
   
-
 - ⚡ Fun fact: I wear glasses now  
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -93,23 +72,4 @@ Recently, I opened my micro-business in IT development where I can help companie
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MathisHaumont&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathisHaumont&hide_border=true&layout=compact" align="left" />  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=MathisHaumont&&style=flat-square)  
-
-
-</td><td valign="top" width="50%">
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ketseum&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
-
-</td></tr></table>  
+</div> 
